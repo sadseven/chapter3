@@ -39,7 +39,7 @@
 					</td>
 				</tr>
 			</table>
-			<button type="sumbit">保存</button>
+			<button type="submit">保存</button>
 		</form>
 		<script src="${BASE}/asset/lib/jquery/jquery.min.js"></script>
 		<script src="${BASE}/asset/lib/jquery-form/jquery.form.min.js"></script>
